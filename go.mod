@@ -1,3 +1,3 @@
-module github.com/mstomar698/learning-TDD-with-go.git
+module hello
 
 go 1.19
